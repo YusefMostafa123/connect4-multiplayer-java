@@ -61,6 +61,13 @@ mvn clean compile exec:java
 NOTE: You can run multiple clients to try multiplayer mode the same way.
 
 ## Some Screenshots
+<img width="946" height="696" alt="Home Page" src="https://github.com/user-attachments/assets/c9ed216a-496d-40d8-aa77-0731f150204e" />
+
+<img width="946" height="696" alt="Multiplayer" src="https://github.com/user-attachments/assets/25253405-e1f1-4d35-b914-31e94724275f" />
+
+<img width="946" height="696" alt="GameOver" src="https://github.com/user-attachments/assets/50b302f4-3905-455c-a0c9-f4c82bcd12b2" />
+
+<img width="946" height="696" alt="Stats" src="https://github.com/user-attachments/assets/7cd2fa0c-e8b7-474c-b364-186e6c744514" />
 
 ## Author
 Yusef Mostafa
