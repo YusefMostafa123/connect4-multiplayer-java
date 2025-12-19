@@ -1,6 +1,6 @@
 # Connect-4 Multiplayer (Java)
 
-This is a fully featured Connect-4 game built in Java and has both **single-player (AI)** and **real time multiplayer** modes.  
+This is a fully featured Connect-4 game built in Java and has both **single-player (AI)** and **real time multiplayer** modes using server-client.  
 This project has a custom **JavaFX GUI**, a **client server architecture**, persistent **player statistics**, and in game **chat Feature**.
 
 ---
